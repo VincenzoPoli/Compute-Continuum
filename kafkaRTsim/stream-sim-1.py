@@ -2,7 +2,7 @@ from kafka import KafkaProducer
 import json
 import os
 
-def load_kafka_brokers(path="C:\\Users\\Matisse\\Desktop\\Tirocinio e tesi\\Tesi\\EC2 instance material\\Pipeline\\0-config\\public_kafka_config.txt"):
+def load_kafka_brokers(path="path\\to\\EC2 instance material\\Pipeline\\0-config\\public_kafka_config.txt"):
     with open(path, "r") as f:
         for line in f:
             return line.strip()
@@ -35,7 +35,7 @@ max_count = 1
 count = 0
 
 # Cartella da cui leggere
-dir_path = "C:\\Users\\Matisse\\Desktop\\monitoring\\ecso"
+dir_path = "path\\to\\dataset"
 
 # Processa tutti i file della cartella in ordine alfabetico
 files = sorted(os.listdir(dir_path))

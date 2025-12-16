@@ -2,7 +2,7 @@ from kafka import KafkaProducer
 import json
 import os
 
-def load_kafka_brokers(path="C:\\Users\\Matisse\\Desktop\\Tirocinio e tesi\\Tesi\\EC2 instance material\\Pipeline\\0-config\\public_kafka_config.txt"):
+def load_kafka_brokers(path="path\\to\\EC2 instance material\\Pipeline\\0-config\\public_kafka_config.txt"):
     with open(path, "r") as f:
         for line in f:
             return line.strip()
@@ -35,7 +35,7 @@ max_count = 1  # puoi cambiare questo numero
 count = 0
 
 # Cartella da cui leggere
-dir_path = "C:\\Users\\Matisse\\Desktop\\monitoring\\dma"
+dir_path = "path\\to\\dataset"
 
 # Lista dei file ordinata alfabeticamente
 files = sorted(os.listdir(dir_path))
