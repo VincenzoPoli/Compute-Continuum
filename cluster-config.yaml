@@ -1,0 +1,22 @@
+Region: eu-south-1
+Image:
+  Os: alinux2023
+HeadNode:
+  InstanceType: t3.micro
+  Networking:
+    SubnetId: subnet-088b76d46af6a9c82
+  Ssh:
+    KeyName: milan-key-pair
+Scheduling:
+  Scheduler: slurm
+  SlurmQueues:
+  - Name: queue1
+    ComputeResources:
+    - Name: t3micro
+      Instances:
+      - InstanceType: t3.micro
+      MinCount: 0
+      MaxCount: 10
+    Networking:
+      SubnetIds:
+      - subnet-038c6d0ae0546e92b
