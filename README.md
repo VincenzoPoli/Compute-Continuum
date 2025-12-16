@@ -4,12 +4,51 @@ Quanto di seguito presuppone la conoscenza dei concetti di base relativi ai Web 
 
 Verranno quindi riportate solo le istruzioni atte ad avviare quanto presente nella repository in un proprio ambiente correttamente configurato.
 
+## Prerequisiti
+
+Creazione ambiente virtuale Python
+
+```
+python -m virtualenv ~/parallel-cluster
+```
+
+Attivazione ambiente virtuale
+
+```
+virtualenv attivazione: path\to\~\parallel-cluster\Scripts\activate.bat
+```
+
+Installare nvm e Node.js LTS:  
+
+```
+nvm install lts 
+```
+
+```
+nvm use lts
+```
+
+Installare AWS CLI: 
+
+```
+pip install awscli
+```
+
+Configurare AWS CLI
+
+```
+aws configure
+```
+
+Configurare il cluster
+
+```
+pcluster configure --config cluster-config.yaml
+```
+
+Il file creato si troverà sotto la directory di lavoro corrente. Nella repo è già disponibile un manifesto d'esempio utilizzabile.
+
 ## Creazione ed eliminazione cluster
-
-Prima di tutto è necessario installare la Command Line Interface (CLI) relativa ad **AWS ParallelCluster**.  
-Di seguito il link alla documentazione ufficiale per l’installazione nell’ambiente virtuale Python:
-
-👉 [Installazione AWS ParallelCluster (v3, virtual environment)](https://docs.aws.amazon.com/parallelcluster/latest/ug/install-v3-virtual-environment.html)
 
 Aprire il terminale Windows e lanciare:
 
