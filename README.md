@@ -1,8 +1,25 @@
-# Avvio Soluzione di Acquisizione ed Elaborazione dati su AWS ParallelCluster
+# Avvio Soluzione di Acquisizione ed Elaborazione dati su AWS (usando ParallelCluster e altri strumenti a supporto)
 
-Quanto di seguito presuppone la conoscenza dei concetti di base relativi ai Web Services offerti da Amazon (configurazione elementare ruoli IAM, security group, generazione chiavi) oltre che il possesso di un account con un numero di crediti sufficiente.
+## Nota 1
+Quanto di seguito presuppone la conoscenza dei concetti di base relativi ai Web Services offerti da Amazon (configurazione elementare ruoli IAM, security group, generazione chiavi) oltre al possesso di un account con un numero di crediti sufficiente.
 
-Verranno quindi riportate solo le istruzioni atte ad avviare quanto presente nella repository in un proprio ambiente correttamente configurato.
+Verranno quindi riportate solo le istruzioni atte ad avviare quanto presente nella repository in un proprio ambiente già correttamente configurato.
+
+## Nota 2
+
+Nella repository sono presenti dei file che rappresenta un array di record JSON. Questi sono SOLO esempi di dati utilizzati per la realizzazione (e il test) della soluzione. 
+
+I dataset originari contengono decine e decine di file con all'interno centinaia di migliaia di record per un totale di svariati GB. Dal momento che GitHub non è un datacenter, ci si è limitati a fornire dei campioni.
+
+kafkaRTSim e i dataset NON vanno caricati sul cluster che si intende usato. Queste componenti sono deputate alla simulazione dell'arrivo di eventi/dati, e devono essere localizzati su una (o più) macchina esterna al cluster.
+
+## Un po' di contesto
+
+[Presentazione Google Slides](https://docs.google.com/presentation/d/1E0KLCN3N69sAchmcqAzFqAeN7ytEOoZseU2YUqSRaQQ/edit?usp=sharing)
+
+[Abstract (in italiano)](https://drive.google.com/file/d/1uU_ecifNT-EklnCg7eSU_jDsmzxn2UxU/view?usp=sharing)
+
+[Abstract (in english)](https://drive.google.com/file/d/1q2Dq6H74nyMJGNKUT7amyaDScHxNA0QN/view?usp=sharing)
 
 ## Prerequisiti
 

@@ -1,0 +1,100 @@
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_POWER_MAX","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"9dcb820c-3d9a-3621-b809-55a67c5b0370"},"component_name":"PSU 1 - PSU-1"},"value":{"value":600000,"type":"VALUE_TYPE_WATTS","scale":"VALUE_SCALE_MILLI","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843610,"nanos":352981000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_POWER_MAX","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"247db8c3-b7e1-3047-ab48-927c95961a97"},"component_name":"PSU 2 - PSU-2"},"value":{"value":600000,"type":"VALUE_TYPE_WATTS","scale":"VALUE_SCALE_MILLI","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843610,"nanos":489461000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_POWER_USAGE","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"9dcb820c-3d9a-3621-b809-55a67c5b0370"},"component_name":"PSU 1 - PSU-1"},"value":{"value":80125,"type":"VALUE_TYPE_WATTS","scale":"VALUE_SCALE_MILLI","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843610,"nanos":650094000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_POWER_USAGE","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"247db8c3-b7e1-3047-ab48-927c95961a97"},"component_name":"PSU 2 - PSU-2"},"value":{"value":63312,"type":"VALUE_TYPE_WATTS","scale":"VALUE_SCALE_MILLI","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843610,"nanos":800996000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_POWER_USAGE_PERCENTAGE","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"9dcb820c-3d9a-3621-b809-55a67c5b0370"},"component_name":"PSU 1 - PSU-1"},"value":{"percentage":13.35,"type":"VALUE_TYPE_PERCENT","scale":"VALUE_SCALE_UNDEFINED","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843610,"nanos":974383000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_POWER_USAGE_PERCENTAGE","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"247db8c3-b7e1-3047-ab48-927c95961a97"},"component_name":"PSU 2 - PSU-2"},"value":{"percentage":10.55,"type":"VALUE_TYPE_PERCENT","scale":"VALUE_SCALE_UNDEFINED","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843611,"nanos":143252000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"a62d8e5d-8474-3134-ad9d-b48549a788e5"},"component_name":"Fan 1 - Chassis Fan - 1"},"value":{"value":13366,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843611,"nanos":469243000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"464a0c01-7fa7-3b8d-9095-8d027702b32f"},"component_name":"Fan 2 - Chassis Fan - 2"},"value":{"value":11088,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843611,"nanos":795565000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"080c34db-4759-34ec-be55-4412e20deb4c"},"component_name":"Fan 3 - Chassis Fan - 3"},"value":{"value":13500,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843612,"nanos":90237000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"c64eb331-8056-353e-ad49-31bdd1df73d3"},"component_name":"Fan 4 - Chassis Fan - 4"},"value":{"value":11042,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843612,"nanos":410319000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"38624b0c-8401-3f7a-98a8-fdd41cc72c35"},"component_name":"Fan 5 - Chassis Fan - 5"},"value":{"value":20454,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843612,"nanos":658316000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"0b3dfa03-8321-3876-8a49-deb3623b2e76"},"component_name":"Fan 6 - Chassis Fan - 6"},"value":{"value":17142,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843612,"nanos":962185000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"b73c21e4-817b-3b82-a95b-85291f979e50"},"component_name":"Fan 7 - Chassis Fan - 7"},"value":{"value":13602,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843613,"nanos":302250000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"6f047fca-ae08-3cfe-8f10-71570712ec37"},"component_name":"Fan 8 - Chassis Fan - 8"},"value":{"value":11297,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843613,"nanos":619175000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"452ef5ae-36ad-3bb3-9539-0cc1899a9973"},"component_name":"Fan 9 - Chassis Fan - 9"},"value":{"value":13989,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843613,"nanos":925170000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"11cb477d-b041-3b4f-bab8-99e299d14550"},"component_name":"Fan 10 - Chassis Fan - 10"},"value":{"value":11464,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843614,"nanos":235278000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"ac00c791-1eaf-3ba3-be3b-43b1788745a6"},"component_name":"Fan 11 - Chassis Fan - 11"},"value":{"value":14062,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843614,"nanos":462212000}}}}
+{"status":"OK_STATUS","metric":{"metric_id":"METRIC_FAN_SPEED","metric_metadata":{"device_uuid":{"uuid":"1dca9566-81bc-31ab-9ec8-e86f5a9ddbb0"},"component_uuid":{"uuid":"567f2a1a-3d58-3e1d-95be-199c085b6de0"},"component_name":"Fan 12 - Chassis Fan - 12"},"value":{"value":11416,"type":"VALUE_TYPE_RPM","scale":"VALUE_SCALE_UNITS","status":"SENSOR_STATUS_OK","timestamp":{"seconds":1752843614,"nanos":776083000}}}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"ONU_STATE_LAST_CHANGE","value_string":"07/07/2025 08:58:14 "}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"ONU_DETECTED_DATETIME","value_string":"07/07/2025 08:58:14 "}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"ONU_PRESENCE_STATE","value_string":"active"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"PON_TYPE","value_string":"xgs"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"PHYSICAL_DISTANCE","value_int":12}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"BIP_ERRORS","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"FEC_CORRECTED_SYMBOLS","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"FEC_CODEWORDS","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"FEC_CODEWORDS_CORRECTED","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"FEC_CODEWORDS_UNCORRECTABLE","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"RX_GEM","value_int":42833129}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"TX_GEM","value_int":49535}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"XGEM_LOSS_ONU","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"RX_GEM_DROPPED_PON","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_parameter_metric":{"onu_parameter_list":"BER_REPORTED","value_int":0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"LOSI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461"}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461"}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"DGI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"TIWI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"DOWI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"SUFI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"SFI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"SDI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"DFI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"LOAI","value":"off"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","onu_alarms_parameter_metric":{"onu_alarms_parameter_list":"LOKI","value":"off"}}
+{"status":"OK_STATUS","olt_parameter_metric":{"olt_parameter_list":"OLT_TEMPERATURE","value_float":53.0}}
+{"status":"OK_STATUS","olt_parameter_metric":{"olt_parameter_list":"OLT_SERIAL_NUMBER","value_string":"SEDP0083e85f"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"value_float":40062.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"TRANSMITTED_POWER","value_float":1.092}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"RECEIVED_POWER","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"SFP_TEMPERATURE","value_float":29.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"SFP_SUPPLY_VOLTAGE","value_float":3237.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"SFP_VENDOR_NAME","value_string":"Hisense"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"SFP_MODEL_NAME","value_string":"LTF5308B-BH+"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"SFP_SERIAL_NUMBER","value_string":"US1B6Z00001"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","transceiver_metric":{"parameter_list":"SFP_MODULE_TYPE","value_string":"COMBO PON"}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_BYTES_NNI","value_float":17905306000.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_BYTES_ONU","value_float":39964357000.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_BYTES_NNI","value_float":128985840000.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_BYTES_ONU","value_float":6895492000.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_BCAST_PACKETS_NNI","value_float":64442.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_MCAST_PACKETS_NNI","value_float":122637.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_UCAST_PACKETS_NNI","value_float":63061764.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_BCAST_PACKETS_NNI","value_float":598071.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_MCAST_PACKETS_NNI","value_float":44699.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_UCAST_PACKETS_NNI","value_float":117915576.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_PACKETS_NNI","value_float":63248840.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_PACKETS_ONU","value_float":32655584.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_PACKETS_PON","value_float":32655584.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_PACKETS_NNI","value_float":118558344.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_PACKETS_ONU","value_float":19265452.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_PACKETS_PON","value_float":19265452.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_PACKETS_DROPPED_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_DROPPED_TOTAL_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_CRC_ERROR_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_OVERSIZE_PACKETS_NNI","value_float":1352.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_DROPPED_PACKETS_TOO_LONG_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_OVERSIZE_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_DROPPED_PACKETS_ILLEGAL_LENGTH_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_UNDERSIZE_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_DROPPED_PACKETS_TOO_SHORT_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_UNDERSIZE_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_ERROR_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_ERROR_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_JABBER_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_JABBER_PACKETS_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"TX_FRAMES_64_NNI","value_float":822643.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"RX_FRAMES_64_NNI","value_float":342706.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_AVERAGE_PACKETS_PER_SECOND_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_AVERAGE_PACKETS_PER_SECOND_PON","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_AVERAGE_PACKETS_PER_SECOND_ONU","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_RX_AVERAGE_BYTES_PER_SECOND_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_RX_AVERAGE_BYTES_PER_SECOND_ONU","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_RX_MAX_BYTES_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_RX_MAX_BYTES_ONU","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_TX_MAX_BYTES_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_TX_MAX_BYTES_ONU","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_TX_AVERAGE_BYTES_PER_SECOND_NNI","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_TX_AVERAGE_BYTES_PER_SECOND_ONU","value_float":0.0}}
+{"status":"OK_STATUS","OnuSerialNumber":"ICTR34001461","get_packets_metric":{"get_packets_parameter_list":"READ_RX_AVERAGE_UCAST_BYTES_PER_SECOND_NNI","value_float":0.0}}
