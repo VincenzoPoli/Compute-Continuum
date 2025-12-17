@@ -702,8 +702,9 @@ srun --nodelist="$SPARK_MASTER" --ntasks=1 bash -c '
 
 ### Avviare simulatore eventi
 
+- Vedere la corrispondenza tra gli IP privati e quelli pubblici avvalendosi della console AWS
 
-- Sotto "C:\Users\Matisse\Desktop\Tirocinio e tesi\Tesi\EC2 instance material\Pipeline\0-config", aprire il file "public_kafka_config.txt" e scrivere gli IP corredati dal numero di porta tutti su una riga nella seguente maniera:
+- Sotto "path\to\kafkaRTSim\0-config", aprire il file "public_kafka_config.txt" e scrivere gli IP corredati dal numero di porta tutti su una riga nella seguente maniera:
 
 ```
 <IP_PUBBLICO_1>:9094,<IP_PUBBLICO_2>:9094

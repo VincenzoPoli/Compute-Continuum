@@ -2,7 +2,7 @@ from kafka import KafkaProducer
 import json
 import os
 
-def load_kafka_brokers(path="path\\to\\EC2 instance material\\Pipeline\\0-config\\public_kafka_config.txt"):
+def load_kafka_brokers(path="path\\to\\public_kafka_config.txt"):
     with open(path, "r") as f:
         for line in f:
             return line.strip()
